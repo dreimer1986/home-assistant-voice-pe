@@ -1658,7 +1658,7 @@ voice_kit:
 external_components:
   - source:
       type: git
-      url: https://github.com/esphome/home-assistant-voice-pe
+      url: https://github.com/dreimer1986/home-assistant-voice-pe
       ref: dev
     components:
       - voice_kit
