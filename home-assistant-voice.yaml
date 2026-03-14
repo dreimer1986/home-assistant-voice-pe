@@ -1790,7 +1790,7 @@ select:
           id(hey_jarvis).set_probability_cutoff(247);   // 0.97 -> 0.563 FAPH on DipCo (Manifest's default)
           id(hey_mycroft).set_probability_cutoff(253);  // 0.99 -> 0.567 FAPH on DipCo
           id(hey_luna_v3).set_probability_cutoff(253);  // CUSTOM
-          id(alexa).set_probability_cutoff(235);        // CUSTOM
+          id(alexa).set_probability_cutoff(253);        // CUSTOM
         } else if (x == "Moderately sensitive") {
           id(okay_nabu).set_probability_cutoff(176);    // 0.69 -> 0.376 FAPH on DipCo
           id(hey_jarvis).set_probability_cutoff(235);   // 0.92 -> 0.939 FAPH on DipCo
